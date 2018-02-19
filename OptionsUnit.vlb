@@ -1,0 +1,13 @@
+﻿[cbxItems]
+Coordinates=10,10,101,124
+
+[edtConfidence]
+Coordinates=121,10,97,58
+
+[edtSupport]
+Coordinates=228,10,77,58
+Visible=True
+
+[]
+Coordinates=130,87,91,36
+
