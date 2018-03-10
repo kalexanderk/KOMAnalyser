@@ -1,6 +1,7 @@
 # KOMAnalyser
 
 KOM Analyser is a program that associative analysis of the shopping sequences.
+(program for the detection of the related groups of items and possible shopping sequences for every specific customer using the previous customer experience)
 
 The program identifies related product groups based on confidence and support and, in addition, 
 derives various statistics like support, confidence, expected confidence, lift. 
